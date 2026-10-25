@@ -52,6 +52,7 @@
 * [remotion-dev/skills](https://github.com/remotion-dev/skills) - создание программного видео с Remotion и React по рекомендациям команды Remotion.
 * [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - context engineering, память, tool design, evaluation, multi-agent архитектуры и production agent systems.
 * [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) - коллекция skills для инженерного workflow coding-агентов: Kanban-доска, ledger задач с зависимостями, планирование, изучение архитектуры проекта, wiki и проверяемые артефакты.
+* [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill) - публикует HTML-файл или папку со статическим сайтом, собранную агентом, по постоянной публичной ссылке `https://<slug>.deed.page/` одним `curl`-запросом без аккаунта и API-ключа; также подключается как remote MCP server.
 
 ### JavaScript и тестирование
 
